@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;o2SpringReferenceType&apos; to &apos;02SpringReferenceType&apos;&#x0D;&#x0A;- Original element: &apos;o2SpringReferenceType&apos;&#x0D;&#x0A;- Renamed element: &apos;o2SpringReferenceType&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;o2SpringReferenceType&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=o2SpringReferenceType" name="02SpringReferenceType" references="true" stamp="1690253742619" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+package com.app.shyam.config;
+
+public class AppConfig {
+
+}

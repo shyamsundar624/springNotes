@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Youtube Program\Spring\03SpringReferenceTypeMulti\src\main\java\appConfig.xml"/>
+			<item value="D:\Youtube Program\Spring\Test"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.app.shyam"/>
+			<item value="com.app.SpringReferenceDepen"/>
+			<item value="com.shyam.app"/>
+			<item value="com.app.SpringCore"/>
+			<item value="com.app.Test"/>
+			<item value="coma.pp.Shyam"/>
+		</list>
+		<list key="groupId">
+			<item value="com.app"/>
+			<item value="coma.pp"/>
+		</list>
+		<list key="artifactId">
+			<item value="08SpringAnnBaseConfig"/>
+			<item value="07SpringRefInterface"/>
+			<item value="06SpringRefereneceDepen"/>
+			<item value="06SpringReferenceDepen"/>
+			<item value="o6SpringJavaFerence"/>
+			<item value="05SpringJavaCollectionConfig"/>
+			<item value="04SpringJavaBaseConfig"/>
+			<item value="03SpringReferenceTypeMulti"/>
+			<item value="02SpringRerenceType"/>
+			<item value="01Springcore"/>
+			<item value="01SpringCore"/>
+			<item value="Test"/>
+			<item value="Shyam"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

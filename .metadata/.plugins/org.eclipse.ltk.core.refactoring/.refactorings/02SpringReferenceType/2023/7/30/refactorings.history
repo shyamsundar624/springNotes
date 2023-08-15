@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;appConfig.xml&apos; to &apos;03SpringReferenceTypeMulti/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;02SpringReferenceType&apos;&#x0D;&#x0A;- Destination element: &apos;03SpringReferenceTypeMulti/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;appConfig.xml&apos;" description="Copy file" destination="=03SpringReferenceTypeMulti/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="src/main/java/appConfig.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1690253979937" units="0" version="1.0"/>
+</session>

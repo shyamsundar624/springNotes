@@ -1,0 +1,5 @@
+package com.app.shyam.model;
+
+public class Address {
+
+}

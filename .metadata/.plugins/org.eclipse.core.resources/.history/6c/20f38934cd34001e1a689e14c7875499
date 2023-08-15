@@ -1,0 +1,5 @@
+package com.app.shyam.entity;
+
+public class Student {
+
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- bean definitions here -->
+
+	<!-- <bean class="com.app.shyam.entity.Product" name="prod" p:id="10" p:name="shyam"/> -->
+
+	<!-- <property name="id"> <value>10</value> </property> <property name="name" 
+		value="dell" /> -->
+
+	<!-- </bean> -->
+
+	<!-- <bean class="com.app.shyam.entity.Address" id="address">
+		<property name="id" value="12" />
+		<property name="city" value="Jandaha" />
+		<property name="pincode" value="848216" />
+	</bean>
+
+	<bean class="com.app.shyam.entity.Student" id="student">
+		<property name="id" value="13" />
+		<property name="name" value="Shyam" />
+		<property name="address" ref="address">
+			<ref bean="address" />
+		</property>
+	</bean> -->
+	
+	<!--By using P-Schema  -->
+	
+	<bean class="com.app.shyam.entity.Address" id="addrrss" p:id="12" p:city="Rosera" p:pincode="123456"/>
+	
+	<bean class="com.app.shyam.entity.Student" id="student" p:id="21" p:Name="sanju" p:address-ref="addrrss"/>
+</beans>

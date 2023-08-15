@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!-- bean definitions here -->
+
+<bean class="com.app.shyam.Z" id="z">
+<property name="a" value="12"/>
+</bean>
+
+<bean class="com.app.shyam.Y" id="y">
+<property name="z" ref="z"></property>
+</bean>
+
+<bean class="com.app.shyam.X" id="x">
+<property name="y" ref="y"></property>
+
+</bean>
+</beans>

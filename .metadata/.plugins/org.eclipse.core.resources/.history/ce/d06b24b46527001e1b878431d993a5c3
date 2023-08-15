@@ -1,0 +1,6 @@
+package com.app.shyam.model;
+
+public class Address {
+private String city;
+private Int pin;
+}
